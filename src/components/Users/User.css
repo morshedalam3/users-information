@@ -1,0 +1,14 @@
+.main-container{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 10px;
+    width:75%
+}
+.container{
+    background-color: #f1f1f1;
+    width: 400px;
+    line-height: 75px;
+}
+/* .container > p{
+    float: left; */
+
